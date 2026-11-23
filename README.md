@@ -23,3 +23,6 @@ Analyse attrition across 1,000 employees to identify where it concentrates and w
 
 ## Tools
 Power BI · Power Query · DAX · Data Validation · Dashboard Design
+
+## Dashboard Preview
+![Executive Overview](screenshots/page1-executive-overview.png)
