@@ -25,4 +25,8 @@ Analyse attrition across 1,000 employees to identify where it concentrates and w
 Power BI · Power Query · DAX · Data Validation · Dashboard Design
 
 ## Dashboard Preview
-![Executive Overview](screenshots/page1-executive-overview.png)
+![Page 1 - Executive Overview](Screenshots/Page-1%20Executive%20Overview.png)
+![Page 2 - Demographics](Screenshots/Page-2%20Demographics.png)
+![Page 3 - Department & Role](Screenshots/Page-3%20Department%20%26%20Role.png)
+![Page 4 - Satisfaction & Retention](Screenshots/Page-4%20Satisfaction%20%26%20Retention.png)
+![Page 5 - Experience & Pay](Screenshots/Page-5%20Experience%20%26%20Pay.png)
